@@ -1,0 +1,20 @@
+[
+  {
+    "username": "ema",
+    "livello": 1,
+    "numero_recensioni_fatte": 1,
+    "coppia": {
+      "seme": "779085626",
+      "res": "3c8719d5c8fe55339f1dbc34fbe6bbf6a5d579f61f88ab99a81bfe885501d35b"
+    }
+  },
+  {
+    "username": "yolanda",
+    "livello": 1,
+    "numero_recensioni_fatte": 0,
+    "coppia": {
+      "seme": "287509511",
+      "res": "382a9115dc481d50ceedac720a8d8264cbb7c00f2585a5cb6c34bb8067fdba3b"
+    }
+  }
+]

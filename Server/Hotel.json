@@ -1,0 +1,4074 @@
+[
+  {
+    "nome": "Hotel Aosta 1",
+    "nomecitta": "Aosta",
+    "id": 1,
+    "descrizione": "Un ridente hotel a Aosta, in Via della gioia, 25",
+    "telefono": "347-4453634",
+    "servizi": [
+      "TV in camera",
+      "Palestra",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 2",
+    "nomecitta": "Aosta",
+    "id": 2,
+    "descrizione": "Un ridente hotel a Aosta, in Via della libertà, 96",
+    "telefono": "385-8015757",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Piscina",
+      "Paga in struttura",
+      "Frigo in camera",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 3",
+    "nomecitta": "Aosta",
+    "id": 3,
+    "descrizione": "Un grazioso hotel a Aosta, in Via Leonardo da Vinci, 87",
+    "telefono": "393-2959804",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 4",
+    "nomecitta": "Aosta",
+    "id": 4,
+    "descrizione": "Un organizzato hotel a Aosta, in Via Cavour, 37",
+    "telefono": "392-3923265",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 5",
+    "nomecitta": "Aosta",
+    "id": 5,
+    "descrizione": "Un bellissimo hotel a Aosta, in Via Roma, 8",
+    "telefono": "311-6438094",
+    "servizi": [
+      "servizio in camera",
+      "Piscina",
+      "Paga in struttura",
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Posto auto",
+      "TV in camera",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 6",
+    "nomecitta": "Aosta",
+    "id": 6,
+    "descrizione": "Un grazioso hotel a Aosta, in Via della fantasia, 95",
+    "telefono": "363-4167789",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 7",
+    "nomecitta": "Aosta",
+    "id": 7,
+    "descrizione": "Un grazioso hotel a Aosta, in Via della fantasia, 23",
+    "telefono": "313-3816305",
+    "servizi": [
+      "Posto auto",
+      "Frigo in camera",
+      "Palestra",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 8",
+    "nomecitta": "Aosta",
+    "id": 8,
+    "descrizione": "Un grazioso hotel a Aosta, in Via del tramonto, 22",
+    "telefono": "374-6993111",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Piscina",
+      "TV in camera",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 9",
+    "nomecitta": "Aosta",
+    "id": 9,
+    "descrizione": "Un organizzato hotel a Aosta, in Via della gioia, 98",
+    "telefono": "355-6261636",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Aosta 10",
+    "nomecitta": "Aosta",
+    "id": 10,
+    "descrizione": "Un bellissimo hotel a Aosta, in Via Italia, 5",
+    "telefono": "312-5767779",
+    "servizi": [
+      "Piscina",
+      "Cancellazione gratuita",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 1",
+    "nomecitta": "Torino",
+    "id": 11,
+    "descrizione": "Un bellissimo hotel a Torino, in Via Napoli, 51",
+    "telefono": "323-4364048",
+    "servizi": [
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Palestra",
+      "Posto auto",
+      "Paga in struttura",
+      "Wi-Fi",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 2",
+    "nomecitta": "Torino",
+    "id": 12,
+    "descrizione": "Un organizzato hotel a Torino, in Via Roma, 78",
+    "telefono": "346-6565015",
+    "servizi": [
+      "Sauna",
+      "Paga in struttura",
+      "Wi-Fi",
+      "servizio in camera",
+      "Frigo in camera",
+      "Piscina",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 3",
+    "nomecitta": "Torino",
+    "id": 13,
+    "descrizione": "Un organizzato hotel a Torino, in Via della gioia, 8",
+    "telefono": "377-4084998",
+    "servizi": [
+      "Paga in struttura",
+      "servizio in camera",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 4",
+    "nomecitta": "Torino",
+    "id": 14,
+    "descrizione": "Un organizzato hotel a Torino, in Via Cavour, 0",
+    "telefono": "332-7052338",
+    "servizi": [
+      "Piscina",
+      "Cancellazione gratuita",
+      "TV in camera",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 5",
+    "nomecitta": "Torino",
+    "id": 15,
+    "descrizione": "Un grazioso hotel a Torino, in Via del tramonto, 21",
+    "telefono": "321-5408287",
+    "servizi": [
+      "TV in camera",
+      "Frigo in camera",
+      "Piscina",
+      "Sauna",
+      "servizio in camera",
+      "Posto auto",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 6",
+    "nomecitta": "Torino",
+    "id": 16,
+    "descrizione": "Un ridente hotel a Torino, in Via Napoli, 61",
+    "telefono": "388-2637339",
+    "servizi": [
+      "Wi-Fi",
+      "TV in camera",
+      "Piscina",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 7",
+    "nomecitta": "Torino",
+    "id": 17,
+    "descrizione": "Un grazioso hotel a Torino, in Via Roma, 49",
+    "telefono": "329-5207475",
+    "servizi": [
+      "servizio in camera",
+      "Paga in struttura",
+      "Sauna",
+      "Posto auto",
+      "Piscina",
+      "TV in camera",
+      "Frigo in camera",
+      "Palestra",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 8",
+    "nomecitta": "Torino",
+    "id": 18,
+    "descrizione": "Un bellissimo hotel a Torino, in Via del tesoro, 51",
+    "telefono": "325-7516011",
+    "servizi": [
+      "TV in camera",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 9",
+    "nomecitta": "Torino",
+    "id": 19,
+    "descrizione": "Un bellissimo hotel a Torino, in Via Roma, 7",
+    "telefono": "334-2052889",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Torino 10",
+    "nomecitta": "Torino",
+    "id": 20,
+    "descrizione": "Un grazioso hotel a Torino, in Via della gioia, 33",
+    "telefono": "382-4893459",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 1",
+    "nomecitta": "Genova",
+    "id": 21,
+    "descrizione": "Un bellissimo hotel a Genova, in Via Cavour, 43",
+    "telefono": "363-4545082",
+    "servizi": [
+      "Sauna",
+      "Wi-Fi",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Palestra",
+      "Paga in struttura",
+      "Posto auto",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 2",
+    "nomecitta": "Genova",
+    "id": 22,
+    "descrizione": "Un grazioso hotel a Genova, in Via Roma, 94",
+    "telefono": "373-8036991",
+    "servizi": [
+      "Frigo in camera",
+      "Posto auto",
+      "servizio in camera",
+      "TV in camera",
+      "Sauna",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 3",
+    "nomecitta": "Genova",
+    "id": 23,
+    "descrizione": "Un ridente hotel a Genova, in Via del tramonto, 49",
+    "telefono": "333-6061834",
+    "servizi": [
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 4",
+    "nomecitta": "Genova",
+    "id": 24,
+    "descrizione": "Un organizzato hotel a Genova, in Via Italia, 91",
+    "telefono": "371-3994229",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Paga in struttura",
+      "Sauna",
+      "TV in camera",
+      "Piscina",
+      "Palestra",
+      "Wi-Fi",
+      "Posto auto",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 5",
+    "nomecitta": "Genova",
+    "id": 25,
+    "descrizione": "Un grazioso hotel a Genova, in Via Italia, 58",
+    "telefono": "341-5518789",
+    "servizi": [
+      "TV in camera",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 6",
+    "nomecitta": "Genova",
+    "id": 26,
+    "descrizione": "Un ridente hotel a Genova, in Via Leonardo da Vinci, 2",
+    "telefono": "390-3011536",
+    "servizi": [
+      "Paga in struttura",
+      "Palestra",
+      "Piscina",
+      "Wi-Fi",
+      "TV in camera",
+      "servizio in camera",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 7",
+    "nomecitta": "Genova",
+    "id": 27,
+    "descrizione": "Un grazioso hotel a Genova, in Via della libertà, 91",
+    "telefono": "375-7436203",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 8",
+    "nomecitta": "Genova",
+    "id": 28,
+    "descrizione": "Un grazioso hotel a Genova, in Via del tesoro, 41",
+    "telefono": "352-8829285",
+    "servizi": [
+      "Palestra",
+      "Frigo in camera",
+      "Piscina",
+      "Wi-Fi",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Paga in struttura",
+      "TV in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 9",
+    "nomecitta": "Genova",
+    "id": 29,
+    "descrizione": "Un ridente hotel a Genova, in Via del tesoro, 93",
+    "telefono": "391-8497615",
+    "servizi": [
+      "Sauna",
+      "Wi-Fi",
+      "Piscina",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Genova 10",
+    "nomecitta": "Genova",
+    "id": 30,
+    "descrizione": "Un grazioso hotel a Genova, in Via della fantasia, 97",
+    "telefono": "343-6958486",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 1",
+    "nomecitta": "Milano",
+    "id": 31,
+    "descrizione": "Un bellissimo hotel a Milano, in Via della libertà, 63",
+    "telefono": "382-3187543",
+    "servizi": [
+      "Frigo in camera",
+      "Palestra",
+      "Paga in struttura",
+      "Piscina",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "servizio in camera",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 2",
+    "nomecitta": "Milano",
+    "id": 32,
+    "descrizione": "Un grazioso hotel a Milano, in Via della gioia, 15",
+    "telefono": "333-2489254",
+    "servizi": [
+      "Palestra",
+      "Paga in struttura"
+    ],
+    "rate": 2,
+    "ratings": {
+      "pulizia": 2,
+      "posizione": 2,
+      "servizi": 2,
+      "prezzo": 2
+    }
+  },
+  {
+    "nome": "Hotel Milano 3",
+    "nomecitta": "Milano",
+    "id": 33,
+    "descrizione": "Un grazioso hotel a Milano, in Via Napoli, 0",
+    "telefono": "381-8835813",
+    "servizi": [
+      "TV in camera",
+      "Wi-Fi",
+      "Paga in struttura",
+      "Sauna",
+      "Cancellazione gratuita",
+      "servizio in camera",
+      "Palestra",
+      "Posto auto",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 4",
+    "nomecitta": "Milano",
+    "id": 34,
+    "descrizione": "Un grazioso hotel a Milano, in Via Cavour, 60",
+    "telefono": "319-7593785",
+    "servizi": [
+      "Wi-Fi",
+      "Palestra",
+      "Posto auto",
+      "Paga in struttura",
+      "TV in camera",
+      "servizio in camera",
+      "Frigo in camera"
+    ],
+    "rate": 5,
+    "ratings": {
+      "pulizia": 5,
+      "posizione": 5,
+      "servizi": 5,
+      "prezzo": 5
+    }
+  },
+  {
+    "nome": "Hotel Milano 5",
+    "nomecitta": "Milano",
+    "id": 35,
+    "descrizione": "Un grazioso hotel a Milano, in Via Napoli, 81",
+    "telefono": "361-8518964",
+    "servizi": [
+      "Wi-Fi",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Paga in struttura",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 6",
+    "nomecitta": "Milano",
+    "id": 36,
+    "descrizione": "Un bellissimo hotel a Milano, in Via Roma, 22",
+    "telefono": "360-9179865",
+    "servizi": [
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 7",
+    "nomecitta": "Milano",
+    "id": 37,
+    "descrizione": "Un bellissimo hotel a Milano, in Via del tramonto, 40",
+    "telefono": "376-9386435",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Paga in struttura",
+      "Sauna",
+      "Frigo in camera",
+      "Piscina",
+      "Wi-Fi",
+      "servizio in camera",
+      "Posto auto",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 8",
+    "nomecitta": "Milano",
+    "id": 38,
+    "descrizione": "Un grazioso hotel a Milano, in Via del tramonto, 57",
+    "telefono": "396-5144061",
+    "servizi": [
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 9",
+    "nomecitta": "Milano",
+    "id": 39,
+    "descrizione": "Un grazioso hotel a Milano, in Via della gioia, 62",
+    "telefono": "363-1478190",
+    "servizi": [
+      "Wi-Fi",
+      "Palestra",
+      "Paga in struttura",
+      "servizio in camera",
+      "Cancellazione gratuita",
+      "Piscina",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Milano 10",
+    "nomecitta": "Milano",
+    "id": 40,
+    "descrizione": "Un ridente hotel a Milano, in Via del tramonto, 35",
+    "telefono": "320-4042951",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 1",
+    "nomecitta": "Trento",
+    "id": 41,
+    "descrizione": "Un bellissimo hotel a Trento, in Via Cavour, 23",
+    "telefono": "316-3114988",
+    "servizi": [
+      "Sauna",
+      "Frigo in camera",
+      "Posto auto",
+      "Palestra",
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 2",
+    "nomecitta": "Trento",
+    "id": 42,
+    "descrizione": "Un bellissimo hotel a Trento, in Via Leonardo da Vinci, 81",
+    "telefono": "321-9383291",
+    "servizi": [
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 3",
+    "nomecitta": "Trento",
+    "id": 43,
+    "descrizione": "Un ridente hotel a Trento, in Via Leonardo da Vinci, 42",
+    "telefono": "329-5075343",
+    "servizi": [
+      "Wi-Fi",
+      "Sauna",
+      "Piscina",
+      "Palestra",
+      "Paga in struttura",
+      "Posto auto",
+      "servizio in camera",
+      "TV in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 4",
+    "nomecitta": "Trento",
+    "id": 44,
+    "descrizione": "Un bellissimo hotel a Trento, in Via del tramonto, 23",
+    "telefono": "395-6577287",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 5",
+    "nomecitta": "Trento",
+    "id": 45,
+    "descrizione": "Un grazioso hotel a Trento, in Via Italia, 52",
+    "telefono": "397-4643219",
+    "servizi": [
+      "Palestra",
+      "Paga in struttura",
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Frigo in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 6",
+    "nomecitta": "Trento",
+    "id": 46,
+    "descrizione": "Un organizzato hotel a Trento, in Via Napoli, 1",
+    "telefono": "367-7841594",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 7",
+    "nomecitta": "Trento",
+    "id": 47,
+    "descrizione": "Un grazioso hotel a Trento, in Via Napoli, 10",
+    "telefono": "334-5735290",
+    "servizi": [
+      "Wi-Fi",
+      "Frigo in camera",
+      "Sauna",
+      "servizio in camera",
+      "Posto auto",
+      "Palestra",
+      "Piscina",
+      "TV in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 8",
+    "nomecitta": "Trento",
+    "id": 48,
+    "descrizione": "Un grazioso hotel a Trento, in Via della fantasia, 86",
+    "telefono": "332-8816486",
+    "servizi": [
+      "Wi-Fi",
+      "servizio in camera",
+      "Sauna",
+      "Frigo in camera",
+      "Palestra",
+      "Paga in struttura",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 9",
+    "nomecitta": "Trento",
+    "id": 49,
+    "descrizione": "Un organizzato hotel a Trento, in Via della gioia, 38",
+    "telefono": "390-9954959",
+    "servizi": [
+      "Palestra",
+      "Frigo in camera",
+      "Piscina",
+      "Sauna",
+      "Paga in struttura",
+      "Wi-Fi",
+      "Posto auto",
+      "servizio in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Trento 10",
+    "nomecitta": "Trento",
+    "id": 50,
+    "descrizione": "Un bellissimo hotel a Trento, in Via della libertà, 9",
+    "telefono": "330-9269643",
+    "servizi": [
+      "Frigo in camera",
+      "Paga in struttura",
+      "TV in camera",
+      "Palestra",
+      "Wi-Fi",
+      "Posto auto",
+      "servizio in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 1",
+    "nomecitta": "Venezia",
+    "id": 51,
+    "descrizione": "Un bellissimo hotel a Venezia, in Via della gioia, 90",
+    "telefono": "363-3785135",
+    "servizi": [
+      "servizio in camera",
+      "Cancellazione gratuita",
+      "Piscina",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 2",
+    "nomecitta": "Venezia",
+    "id": 52,
+    "descrizione": "Un grazioso hotel a Venezia, in Via Italia, 2",
+    "telefono": "337-1365356",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 3",
+    "nomecitta": "Venezia",
+    "id": 53,
+    "descrizione": "Un bellissimo hotel a Venezia, in Via della libertà, 0",
+    "telefono": "369-4681350",
+    "servizi": [
+      "servizio in camera",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Wi-Fi",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 4",
+    "nomecitta": "Venezia",
+    "id": 54,
+    "descrizione": "Un bellissimo hotel a Venezia, in Via Cavour, 98",
+    "telefono": "396-7716044",
+    "servizi": [
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Piscina",
+      "Frigo in camera",
+      "Palestra",
+      "Sauna",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 5",
+    "nomecitta": "Venezia",
+    "id": 55,
+    "descrizione": "Un bellissimo hotel a Venezia, in Via del tramonto, 15",
+    "telefono": "386-5854078",
+    "servizi": [
+      "Wi-Fi",
+      "TV in camera",
+      "Palestra",
+      "Cancellazione gratuita",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 6",
+    "nomecitta": "Venezia",
+    "id": 56,
+    "descrizione": "Un organizzato hotel a Venezia, in Via Italia, 49",
+    "telefono": "340-9407012",
+    "servizi": [
+      "Posto auto",
+      "Sauna",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "TV in camera",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 7",
+    "nomecitta": "Venezia",
+    "id": 57,
+    "descrizione": "Un organizzato hotel a Venezia, in Via Leonardo da Vinci, 70",
+    "telefono": "343-7969468",
+    "servizi": [
+      "Posto auto",
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Palestra",
+      "Paga in struttura",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 8",
+    "nomecitta": "Venezia",
+    "id": 58,
+    "descrizione": "Un bellissimo hotel a Venezia, in Via della fantasia, 67",
+    "telefono": "317-9168516",
+    "servizi": [
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 9",
+    "nomecitta": "Venezia",
+    "id": 59,
+    "descrizione": "Un organizzato hotel a Venezia, in Via Napoli, 50",
+    "telefono": "389-3601790",
+    "servizi": [
+      "Piscina",
+      "TV in camera",
+      "Sauna",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Venezia 10",
+    "nomecitta": "Venezia",
+    "id": 60,
+    "descrizione": "Un grazioso hotel a Venezia, in Via della gioia, 66",
+    "telefono": "368-5394265",
+    "servizi": [
+      "Piscina",
+      "Frigo in camera",
+      "Wi-Fi",
+      "Palestra",
+      "Paga in struttura",
+      "Sauna",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 1",
+    "nomecitta": "Udine",
+    "id": 61,
+    "descrizione": "Un grazioso hotel a Udine, in Via del tesoro, 5",
+    "telefono": "328-3594856",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 2",
+    "nomecitta": "Udine",
+    "id": 62,
+    "descrizione": "Un ridente hotel a Udine, in Via Italia, 45",
+    "telefono": "349-6164021",
+    "servizi": [
+      "Piscina",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Posto auto",
+      "TV in camera",
+      "Sauna",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 3",
+    "nomecitta": "Udine",
+    "id": 63,
+    "descrizione": "Un grazioso hotel a Udine, in Via Leonardo da Vinci, 36",
+    "telefono": "365-5941474",
+    "servizi": [
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 4",
+    "nomecitta": "Udine",
+    "id": 64,
+    "descrizione": "Un bellissimo hotel a Udine, in Via Roma, 22",
+    "telefono": "365-4968567",
+    "servizi": [
+      "Piscina",
+      "Wi-Fi",
+      "Cancellazione gratuita",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 5",
+    "nomecitta": "Udine",
+    "id": 65,
+    "descrizione": "Un bellissimo hotel a Udine, in Via della gioia, 74",
+    "telefono": "313-1972887",
+    "servizi": [
+      "Frigo in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 6",
+    "nomecitta": "Udine",
+    "id": 66,
+    "descrizione": "Un organizzato hotel a Udine, in Via Roma, 26",
+    "telefono": "323-2099722",
+    "servizi": [
+      "Piscina",
+      "Wi-Fi",
+      "Palestra",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 7",
+    "nomecitta": "Udine",
+    "id": 67,
+    "descrizione": "Un grazioso hotel a Udine, in Via Roma, 7",
+    "telefono": "387-8334625",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 8",
+    "nomecitta": "Udine",
+    "id": 68,
+    "descrizione": "Un organizzato hotel a Udine, in Via Leonardo da Vinci, 41",
+    "telefono": "349-2943307",
+    "servizi": [
+      "Posto auto",
+      "Frigo in camera",
+      "Wi-Fi",
+      "Piscina",
+      "Sauna",
+      "Palestra",
+      "Paga in struttura",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 9",
+    "nomecitta": "Udine",
+    "id": 69,
+    "descrizione": "Un ridente hotel a Udine, in Via della fantasia, 93",
+    "telefono": "385-8808230",
+    "servizi": [
+      "servizio in camera",
+      "Paga in struttura",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Udine 10",
+    "nomecitta": "Udine",
+    "id": 70,
+    "descrizione": "Un grazioso hotel a Udine, in Via Leonardo da Vinci, 83",
+    "telefono": "366-6244753",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Sauna",
+      "Palestra",
+      "Frigo in camera",
+      "Paga in struttura",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 1",
+    "nomecitta": "Reggio-Emilia",
+    "id": 71,
+    "descrizione": "Un bellissimo hotel a Reggio-Emilia, in Via del tramonto, 99",
+    "telefono": "365-8355499",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Piscina",
+      "Posto auto",
+      "Paga in struttura",
+      "Sauna",
+      "servizio in camera",
+      "Palestra",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 2",
+    "nomecitta": "Reggio-Emilia",
+    "id": 72,
+    "descrizione": "Un grazioso hotel a Reggio-Emilia, in Via del tramonto, 9",
+    "telefono": "376-6994764",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 3",
+    "nomecitta": "Reggio-Emilia",
+    "id": 73,
+    "descrizione": "Un organizzato hotel a Reggio-Emilia, in Via Napoli, 23",
+    "telefono": "362-1098172",
+    "servizi": [
+      "Sauna",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 4",
+    "nomecitta": "Reggio-Emilia",
+    "id": 74,
+    "descrizione": "Un bellissimo hotel a Reggio-Emilia, in Via della libertà, 39",
+    "telefono": "365-6761468",
+    "servizi": [
+      "Piscina",
+      "Frigo in camera",
+      "Paga in struttura",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 5",
+    "nomecitta": "Reggio-Emilia",
+    "id": 75,
+    "descrizione": "Un bellissimo hotel a Reggio-Emilia, in Via Napoli, 53",
+    "telefono": "348-4578955",
+    "servizi": [
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 6",
+    "nomecitta": "Reggio-Emilia",
+    "id": 76,
+    "descrizione": "Un ridente hotel a Reggio-Emilia, in Via Napoli, 80",
+    "telefono": "394-3464960",
+    "servizi": [
+      "Posto auto",
+      "Paga in struttura",
+      "Sauna",
+      "Cancellazione gratuita",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 7",
+    "nomecitta": "Reggio-Emilia",
+    "id": 77,
+    "descrizione": "Un ridente hotel a Reggio-Emilia, in Via Leonardo da Vinci, 50",
+    "telefono": "394-4372501",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Piscina",
+      "Sauna",
+      "servizio in camera",
+      "Palestra",
+      "Posto auto",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 8",
+    "nomecitta": "Reggio-Emilia",
+    "id": 78,
+    "descrizione": "Un ridente hotel a Reggio-Emilia, in Via del tramonto, 96",
+    "telefono": "324-7601519",
+    "servizi": [
+      "Frigo in camera",
+      "Sauna",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 9",
+    "nomecitta": "Reggio-Emilia",
+    "id": 79,
+    "descrizione": "Un grazioso hotel a Reggio-Emilia, in Via Cavour, 24",
+    "telefono": "310-9725131",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Frigo in camera",
+      "Wi-Fi",
+      "TV in camera",
+      "Palestra",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Emilia 10",
+    "nomecitta": "Reggio-Emilia",
+    "id": 80,
+    "descrizione": "Un ridente hotel a Reggio-Emilia, in Via del tesoro, 17",
+    "telefono": "352-1033302",
+    "servizi": [
+      "Piscina",
+      "Paga in struttura",
+      "Palestra",
+      "TV in camera",
+      "Posto auto",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 1",
+    "nomecitta": "Firenze",
+    "id": 81,
+    "descrizione": "Un ridente hotel a Firenze, in Via Roma, 53",
+    "telefono": "366-4007646",
+    "servizi": [
+      "servizio in camera",
+      "Piscina",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 2",
+    "nomecitta": "Firenze",
+    "id": 82,
+    "descrizione": "Un bellissimo hotel a Firenze, in Via della gioia, 68",
+    "telefono": "339-6787075",
+    "servizi": [],
+    "rate": 5,
+    "ratings": {
+      "pulizia": 5,
+      "posizione": 5,
+      "servizi": 5,
+      "prezzo": 5
+    }
+  },
+  {
+    "nome": "Hotel Firenze 3",
+    "nomecitta": "Firenze",
+    "id": 83,
+    "descrizione": "Un bellissimo hotel a Firenze, in Via Roma, 45",
+    "telefono": "313-7184050",
+    "servizi": [
+      "servizio in camera",
+      "Frigo in camera",
+      "TV in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 4",
+    "nomecitta": "Firenze",
+    "id": 84,
+    "descrizione": "Un ridente hotel a Firenze, in Via Leonardo da Vinci, 19",
+    "telefono": "330-7174828",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 5",
+    "nomecitta": "Firenze",
+    "id": 85,
+    "descrizione": "Un grazioso hotel a Firenze, in Via del tesoro, 72",
+    "telefono": "362-5444724",
+    "servizi": [
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 6",
+    "nomecitta": "Firenze",
+    "id": 86,
+    "descrizione": "Un grazioso hotel a Firenze, in Via della fantasia, 21",
+    "telefono": "331-5464654",
+    "servizi": [
+      "Frigo in camera",
+      "Piscina",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 7",
+    "nomecitta": "Firenze",
+    "id": 87,
+    "descrizione": "Un organizzato hotel a Firenze, in Via Roma, 62",
+    "telefono": "391-4208074",
+    "servizi": [
+      "servizio in camera",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 8",
+    "nomecitta": "Firenze",
+    "id": 88,
+    "descrizione": "Un grazioso hotel a Firenze, in Via Leonardo da Vinci, 38",
+    "telefono": "319-5757463",
+    "servizi": [
+      "Frigo in camera",
+      "Piscina",
+      "Posto auto",
+      "Paga in struttura",
+      "servizio in camera",
+      "TV in camera",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 9",
+    "nomecitta": "Firenze",
+    "id": 89,
+    "descrizione": "Un bellissimo hotel a Firenze, in Via della libertà, 51",
+    "telefono": "324-3562031",
+    "servizi": [
+      "Posto auto",
+      "Sauna",
+      "servizio in camera",
+      "Piscina",
+      "Palestra",
+      "Frigo in camera",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Firenze 10",
+    "nomecitta": "Firenze",
+    "id": 90,
+    "descrizione": "Un ridente hotel a Firenze, in Via Roma, 55",
+    "telefono": "395-2583226",
+    "servizi": [
+      "TV in camera",
+      "Sauna",
+      "Frigo in camera",
+      "Posto auto",
+      "servizio in camera",
+      "Paga in struttura"
+    ],
+    "rate": 4,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 1",
+    "nomecitta": "Perugia",
+    "id": 91,
+    "descrizione": "Un grazioso hotel a Perugia, in Via della fantasia, 44",
+    "telefono": "354-1557039",
+    "servizi": [
+      "Sauna",
+      "TV in camera",
+      "Palestra",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "servizio in camera",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 2",
+    "nomecitta": "Perugia",
+    "id": 92,
+    "descrizione": "Un bellissimo hotel a Perugia, in Via della libertà, 90",
+    "telefono": "368-4619180",
+    "servizi": [
+      "Frigo in camera",
+      "Piscina",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 3",
+    "nomecitta": "Perugia",
+    "id": 93,
+    "descrizione": "Un ridente hotel a Perugia, in Via Italia, 48",
+    "telefono": "348-3739099",
+    "servizi": [
+      "TV in camera",
+      "Sauna",
+      "Frigo in camera",
+      "Wi-Fi",
+      "Piscina",
+      "Posto auto",
+      "Palestra",
+      "servizio in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 4",
+    "nomecitta": "Perugia",
+    "id": 94,
+    "descrizione": "Un bellissimo hotel a Perugia, in Via Roma, 64",
+    "telefono": "341-9302350",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 5",
+    "nomecitta": "Perugia",
+    "id": 95,
+    "descrizione": "Un ridente hotel a Perugia, in Via della fantasia, 0",
+    "telefono": "344-1459046",
+    "servizi": [
+      "Piscina",
+      "TV in camera",
+      "Posto auto",
+      "Palestra",
+      "Wi-Fi",
+      "Frigo in camera",
+      "servizio in camera",
+      "Cancellazione gratuita",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 6",
+    "nomecitta": "Perugia",
+    "id": 96,
+    "descrizione": "Un bellissimo hotel a Perugia, in Via della libertà, 25",
+    "telefono": "358-7203653",
+    "servizi": [
+      "servizio in camera",
+      "Piscina",
+      "Palestra",
+      "Posto auto",
+      "Wi-Fi",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 7",
+    "nomecitta": "Perugia",
+    "id": 97,
+    "descrizione": "Un organizzato hotel a Perugia, in Via del tramonto, 78",
+    "telefono": "395-2273463",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Piscina",
+      "Posto auto",
+      "Wi-Fi",
+      "TV in camera",
+      "Sauna",
+      "servizio in camera",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 8",
+    "nomecitta": "Perugia",
+    "id": 98,
+    "descrizione": "Un grazioso hotel a Perugia, in Via Italia, 20",
+    "telefono": "344-1536683",
+    "servizi": [
+      "Wi-Fi",
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 9",
+    "nomecitta": "Perugia",
+    "id": 99,
+    "descrizione": "Un organizzato hotel a Perugia, in Via Cavour, 97",
+    "telefono": "321-1126876",
+    "servizi": [
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Perugia 10",
+    "nomecitta": "Perugia",
+    "id": 100,
+    "descrizione": "Un ridente hotel a Perugia, in Via della gioia, 64",
+    "telefono": "310-1698703",
+    "servizi": [
+      "Sauna",
+      "Paga in struttura",
+      "Piscina",
+      "Cancellazione gratuita",
+      "TV in camera",
+      "Frigo in camera",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 1",
+    "nomecitta": "Ancona",
+    "id": 101,
+    "descrizione": "Un ridente hotel a Ancona, in Via del tesoro, 86",
+    "telefono": "321-9449510",
+    "servizi": [
+      "Wi-Fi",
+      "TV in camera",
+      "Piscina",
+      "Palestra",
+      "Paga in struttura",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 2",
+    "nomecitta": "Ancona",
+    "id": 102,
+    "descrizione": "Un grazioso hotel a Ancona, in Via della fantasia, 10",
+    "telefono": "380-4522607",
+    "servizi": [
+      "servizio in camera",
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Palestra",
+      "Piscina",
+      "TV in camera",
+      "Sauna",
+      "Frigo in camera",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 3",
+    "nomecitta": "Ancona",
+    "id": 103,
+    "descrizione": "Un ridente hotel a Ancona, in Via del tramonto, 62",
+    "telefono": "328-9046830",
+    "servizi": [
+      "Sauna",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 4",
+    "nomecitta": "Ancona",
+    "id": 104,
+    "descrizione": "Un grazioso hotel a Ancona, in Via Napoli, 75",
+    "telefono": "329-8849072",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 5",
+    "nomecitta": "Ancona",
+    "id": 105,
+    "descrizione": "Un grazioso hotel a Ancona, in Via Cavour, 69",
+    "telefono": "389-9851564",
+    "servizi": [
+      "Posto auto",
+      "Paga in struttura",
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Piscina",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 6",
+    "nomecitta": "Ancona",
+    "id": 106,
+    "descrizione": "Un organizzato hotel a Ancona, in Via Cavour, 43",
+    "telefono": "358-1409117",
+    "servizi": [
+      "Wi-Fi",
+      "servizio in camera",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 7",
+    "nomecitta": "Ancona",
+    "id": 107,
+    "descrizione": "Un organizzato hotel a Ancona, in Via Cavour, 64",
+    "telefono": "338-6378024",
+    "servizi": [
+      "servizio in camera",
+      "Wi-Fi",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 8",
+    "nomecitta": "Ancona",
+    "id": 108,
+    "descrizione": "Un ridente hotel a Ancona, in Via Cavour, 83",
+    "telefono": "359-3864949",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 9",
+    "nomecitta": "Ancona",
+    "id": 109,
+    "descrizione": "Un ridente hotel a Ancona, in Via della gioia, 15",
+    "telefono": "398-5727373",
+    "servizi": [
+      "Wi-Fi",
+      "servizio in camera",
+      "Frigo in camera",
+      "Paga in struttura",
+      "Piscina",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Sauna",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Ancona 10",
+    "nomecitta": "Ancona",
+    "id": 110,
+    "descrizione": "Un ridente hotel a Ancona, in Via Cavour, 92",
+    "telefono": "326-8675082",
+    "servizi": [
+      "Wi-Fi",
+      "Palestra",
+      "Cancellazione gratuita",
+      "servizio in camera",
+      "Frigo in camera",
+      "Paga in struttura",
+      "TV in camera",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Roma 1",
+    "nomecitta": "Roma",
+    "id": 111,
+    "descrizione": "Un bellissimo hotel a Roma, in Via Italia, 69",
+    "telefono": "341-6349001",
+    "servizi": [
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Roma 2",
+    "nomecitta": "Roma",
+    "id": 112,
+    "descrizione": "Un grazioso hotel a Roma, in Via Italia, 66",
+    "telefono": "358-3136682",
+    "servizi": [
+      "Piscina",
+      "Frigo in camera",
+      "Posto auto"
+    ],
+    "rate": 2,
+    "ratings": {
+      "pulizia": 2,
+      "posizione": 2,
+      "servizi": 2,
+      "prezzo": 2
+    }
+  },
+  {
+    "nome": "Hotel Roma 3",
+    "nomecitta": "Roma",
+    "id": 113,
+    "descrizione": "Un grazioso hotel a Roma, in Via della fantasia, 1",
+    "telefono": "332-1286644",
+    "servizi": [],
+    "rate": 3,
+    "ratings": {
+      "pulizia": 3,
+      "posizione": 3,
+      "servizi": 3,
+      "prezzo": 3
+    }
+  },
+  {
+    "nome": "Hotel Roma 4",
+    "nomecitta": "Roma",
+    "id": 114,
+    "descrizione": "Un bellissimo hotel a Roma, in Via della libertà, 86",
+    "telefono": "393-9634719",
+    "servizi": [
+      "Posto auto",
+      "Wi-Fi",
+      "servizio in camera",
+      "Palestra",
+      "TV in camera",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Roma 5",
+    "nomecitta": "Roma",
+    "id": 115,
+    "descrizione": "Un ridente hotel a Roma, in Via della libertà, 32",
+    "telefono": "395-4517569",
+    "servizi": [
+      "Posto auto",
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Paga in struttura"
+    ],
+    "rate": 5,
+    "ratings": {
+      "pulizia": 5,
+      "posizione": 5,
+      "servizi": 5,
+      "prezzo": 5
+    }
+  },
+  {
+    "nome": "Hotel Roma 6",
+    "nomecitta": "Roma",
+    "id": 116,
+    "descrizione": "Un bellissimo hotel a Roma, in Via del tramonto, 4",
+    "telefono": "366-3384420",
+    "servizi": [
+      "Cancellazione gratuita",
+      "TV in camera",
+      "Wi-Fi"
+    ],
+    "rate": 3,
+    "ratings": {
+      "pulizia": 3,
+      "posizione": 3,
+      "servizi": 3,
+      "prezzo": 3
+    }
+  },
+  {
+    "nome": "Hotel Roma 7",
+    "nomecitta": "Roma",
+    "id": 117,
+    "descrizione": "Un organizzato hotel a Roma, in Via del tramonto, 63",
+    "telefono": "369-4805335",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Roma 8",
+    "nomecitta": "Roma",
+    "id": 118,
+    "descrizione": "Un bellissimo hotel a Roma, in Via Napoli, 93",
+    "telefono": "342-7787107",
+    "servizi": [
+      "Paga in struttura",
+      "Piscina",
+      "Posto auto",
+      "Sauna",
+      "TV in camera",
+      "Palestra",
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Roma 9",
+    "nomecitta": "Roma",
+    "id": 119,
+    "descrizione": "Un grazioso hotel a Roma, in Via Roma, 70",
+    "telefono": "396-3273550",
+    "servizi": [],
+    "rate": 5,
+    "ratings": {
+      "pulizia": 5,
+      "posizione": 5,
+      "servizi": 5,
+      "prezzo": 5
+    }
+  },
+  {
+    "nome": "Hotel Roma 10",
+    "nomecitta": "Roma",
+    "id": 120,
+    "descrizione": "Un organizzato hotel a Roma, in Via Italia, 40",
+    "telefono": "365-2051697",
+    "servizi": [
+      "Sauna",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Piscina"
+    ],
+    "rate": 5,
+    "ratings": {
+      "pulizia": 5,
+      "posizione": 4,
+      "servizi": 5,
+      "prezzo": 4
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 1",
+    "nomecitta": "L\u0027Aquila",
+    "id": 121,
+    "descrizione": "Un ridente hotel a L\u0027Aquila, in Via Napoli, 2",
+    "telefono": "364-6185122",
+    "servizi": [
+      "Palestra",
+      "Sauna",
+      "TV in camera",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 2",
+    "nomecitta": "L\u0027Aquila",
+    "id": 122,
+    "descrizione": "Un grazioso hotel a L\u0027Aquila, in Via del tesoro, 51",
+    "telefono": "341-8023266",
+    "servizi": [
+      "Wi-Fi",
+      "Cancellazione gratuita",
+      "Palestra",
+      "Piscina",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 3",
+    "nomecitta": "L\u0027Aquila",
+    "id": 123,
+    "descrizione": "Un ridente hotel a L\u0027Aquila, in Via del tesoro, 4",
+    "telefono": "384-3898440",
+    "servizi": [
+      "servizio in camera",
+      "TV in camera",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Wi-Fi",
+      "Palestra",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 4",
+    "nomecitta": "L\u0027Aquila",
+    "id": 124,
+    "descrizione": "Un ridente hotel a L\u0027Aquila, in Via Leonardo da Vinci, 20",
+    "telefono": "312-5216383",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 5",
+    "nomecitta": "L\u0027Aquila",
+    "id": 125,
+    "descrizione": "Un bellissimo hotel a L\u0027Aquila, in Via Napoli, 48",
+    "telefono": "341-1519645",
+    "servizi": [
+      "TV in camera",
+      "Paga in struttura",
+      "Wi-Fi",
+      "Frigo in camera",
+      "Piscina",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 6",
+    "nomecitta": "L\u0027Aquila",
+    "id": 126,
+    "descrizione": "Un bellissimo hotel a L\u0027Aquila, in Via Leonardo da Vinci, 68",
+    "telefono": "385-1923650",
+    "servizi": [
+      "Paga in struttura",
+      "Piscina",
+      "TV in camera",
+      "Frigo in camera",
+      "Cancellazione gratuita",
+      "Sauna",
+      "Wi-Fi",
+      "Palestra",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 7",
+    "nomecitta": "L\u0027Aquila",
+    "id": 127,
+    "descrizione": "Un ridente hotel a L\u0027Aquila, in Via Napoli, 1",
+    "telefono": "341-9284848",
+    "servizi": [
+      "Posto auto",
+      "Cancellazione gratuita",
+      "servizio in camera",
+      "Sauna",
+      "Paga in struttura",
+      "Piscina",
+      "Wi-Fi",
+      "Palestra",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 8",
+    "nomecitta": "L\u0027Aquila",
+    "id": 128,
+    "descrizione": "Un organizzato hotel a L\u0027Aquila, in Via Cavour, 90",
+    "telefono": "333-5738403",
+    "servizi": [
+      "Piscina",
+      "Palestra",
+      "Wi-Fi",
+      "Paga in struttura",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 9",
+    "nomecitta": "L\u0027Aquila",
+    "id": 129,
+    "descrizione": "Un ridente hotel a L\u0027Aquila, in Via Roma, 89",
+    "telefono": "340-9457560",
+    "servizi": [
+      "Palestra",
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Sauna",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel L\u0027Aquila 10",
+    "nomecitta": "L\u0027Aquila",
+    "id": 130,
+    "descrizione": "Un organizzato hotel a L\u0027Aquila, in Via della gioia, 0",
+    "telefono": "335-4074609",
+    "servizi": [
+      "Palestra",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 1",
+    "nomecitta": "Campobasso",
+    "id": 131,
+    "descrizione": "Un ridente hotel a Campobasso, in Via Leonardo da Vinci, 72",
+    "telefono": "371-7698792",
+    "servizi": [
+      "Sauna",
+      "Piscina",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 2",
+    "nomecitta": "Campobasso",
+    "id": 132,
+    "descrizione": "Un organizzato hotel a Campobasso, in Via Cavour, 20",
+    "telefono": "355-3382167",
+    "servizi": [
+      "Wi-Fi",
+      "Frigo in camera",
+      "Posto auto",
+      "Sauna",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 3",
+    "nomecitta": "Campobasso",
+    "id": 133,
+    "descrizione": "Un ridente hotel a Campobasso, in Via Italia, 3",
+    "telefono": "361-9141932",
+    "servizi": [
+      "Sauna",
+      "Posto auto",
+      "Piscina",
+      "Cancellazione gratuita",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 4",
+    "nomecitta": "Campobasso",
+    "id": 134,
+    "descrizione": "Un grazioso hotel a Campobasso, in Via della gioia, 82",
+    "telefono": "315-2873334",
+    "servizi": [
+      "Paga in struttura",
+      "Frigo in camera",
+      "Piscina",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 5",
+    "nomecitta": "Campobasso",
+    "id": 135,
+    "descrizione": "Un ridente hotel a Campobasso, in Via Italia, 7",
+    "telefono": "338-6483711",
+    "servizi": [
+      "Wi-Fi",
+      "Posto auto",
+      "Sauna",
+      "TV in camera",
+      "Frigo in camera",
+      "Palestra",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 6",
+    "nomecitta": "Campobasso",
+    "id": 136,
+    "descrizione": "Un ridente hotel a Campobasso, in Via del tesoro, 81",
+    "telefono": "343-4606403",
+    "servizi": [
+      "servizio in camera",
+      "Wi-Fi",
+      "TV in camera",
+      "Frigo in camera",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 7",
+    "nomecitta": "Campobasso",
+    "id": 137,
+    "descrizione": "Un organizzato hotel a Campobasso, in Via del tramonto, 6",
+    "telefono": "360-8213063",
+    "servizi": [
+      "Sauna",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 8",
+    "nomecitta": "Campobasso",
+    "id": 138,
+    "descrizione": "Un organizzato hotel a Campobasso, in Via del tramonto, 86",
+    "telefono": "324-5358464",
+    "servizi": [
+      "Frigo in camera",
+      "Palestra",
+      "Paga in struttura",
+      "servizio in camera",
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Posto auto",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 9",
+    "nomecitta": "Campobasso",
+    "id": 139,
+    "descrizione": "Un bellissimo hotel a Campobasso, in Via Italia, 81",
+    "telefono": "354-7222934",
+    "servizi": [
+      "Piscina",
+      "Wi-Fi",
+      "Cancellazione gratuita",
+      "Paga in struttura",
+      "Frigo in camera",
+      "Palestra",
+      "TV in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Campobasso 10",
+    "nomecitta": "Campobasso",
+    "id": 140,
+    "descrizione": "Un grazioso hotel a Campobasso, in Via Italia, 24",
+    "telefono": "315-6271301",
+    "servizi": [
+      "Frigo in camera",
+      "servizio in camera",
+      "Palestra",
+      "Paga in struttura",
+      "Cancellazione gratuita",
+      "Piscina",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 1",
+    "nomecitta": "Napoli",
+    "id": 141,
+    "descrizione": "Un grazioso hotel a Napoli, in Via della libertà, 1",
+    "telefono": "311-6107327",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Paga in struttura",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 2",
+    "nomecitta": "Napoli",
+    "id": 142,
+    "descrizione": "Un grazioso hotel a Napoli, in Via Napoli, 33",
+    "telefono": "351-2515212",
+    "servizi": [
+      "Posto auto",
+      "Palestra",
+      "TV in camera",
+      "servizio in camera",
+      "Paga in struttura",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Wi-Fi",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 3",
+    "nomecitta": "Napoli",
+    "id": 143,
+    "descrizione": "Un bellissimo hotel a Napoli, in Via della fantasia, 97",
+    "telefono": "344-4239063",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Palestra",
+      "servizio in camera",
+      "TV in camera",
+      "Frigo in camera",
+      "Sauna",
+      "Posto auto"
+    ],
+    "rate": 2,
+    "ratings": {
+      "pulizia": 2,
+      "posizione": 2,
+      "servizi": 2,
+      "prezzo": 2
+    }
+  },
+  {
+    "nome": "Hotel Napoli 4",
+    "nomecitta": "Napoli",
+    "id": 144,
+    "descrizione": "Un grazioso hotel a Napoli, in Via della fantasia, 48",
+    "telefono": "368-4359192",
+    "servizi": [
+      "Piscina",
+      "TV in camera",
+      "Sauna",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 5",
+    "nomecitta": "Napoli",
+    "id": 145,
+    "descrizione": "Un bellissimo hotel a Napoli, in Via della libertà, 7",
+    "telefono": "315-9904110",
+    "servizi": [
+      "Posto auto",
+      "servizio in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 6",
+    "nomecitta": "Napoli",
+    "id": 146,
+    "descrizione": "Un ridente hotel a Napoli, in Via Italia, 1",
+    "telefono": "388-4572253",
+    "servizi": [
+      "Piscina",
+      "Palestra",
+      "Paga in struttura",
+      "Posto auto",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 7",
+    "nomecitta": "Napoli",
+    "id": 147,
+    "descrizione": "Un grazioso hotel a Napoli, in Via del tesoro, 56",
+    "telefono": "374-4173499",
+    "servizi": [
+      "Wi-Fi",
+      "TV in camera",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 8",
+    "nomecitta": "Napoli",
+    "id": 148,
+    "descrizione": "Un bellissimo hotel a Napoli, in Via della libertà, 66",
+    "telefono": "394-1003597",
+    "servizi": [
+      "Frigo in camera",
+      "servizio in camera",
+      "Paga in struttura",
+      "Posto auto",
+      "Piscina",
+      "Wi-Fi",
+      "Palestra",
+      "Sauna",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 9",
+    "nomecitta": "Napoli",
+    "id": 149,
+    "descrizione": "Un grazioso hotel a Napoli, in Via della gioia, 36",
+    "telefono": "315-4077333",
+    "servizi": [
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Palestra",
+      "Sauna",
+      "servizio in camera",
+      "TV in camera",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Napoli 10",
+    "nomecitta": "Napoli",
+    "id": 150,
+    "descrizione": "Un bellissimo hotel a Napoli, in Via della libertà, 26",
+    "telefono": "333-3913769",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 1",
+    "nomecitta": "Bari",
+    "id": 151,
+    "descrizione": "Un grazioso hotel a Bari, in Via della gioia, 28",
+    "telefono": "393-3698614",
+    "servizi": [
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 2",
+    "nomecitta": "Bari",
+    "id": 152,
+    "descrizione": "Un ridente hotel a Bari, in Via Cavour, 81",
+    "telefono": "329-2689302",
+    "servizi": [
+      "Posto auto",
+      "Palestra",
+      "Piscina",
+      "Cancellazione gratuita",
+      "Sauna",
+      "Paga in struttura"
+    ],
+    "rate": 2,
+    "ratings": {
+      "pulizia": 2,
+      "posizione": 2,
+      "servizi": 1,
+      "prezzo": 2
+    }
+  },
+  {
+    "nome": "Hotel Bari 3",
+    "nomecitta": "Bari",
+    "id": 153,
+    "descrizione": "Un organizzato hotel a Bari, in Via della gioia, 18",
+    "telefono": "324-9331039",
+    "servizi": [
+      "servizio in camera",
+      "Paga in struttura",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Piscina",
+      "Palestra",
+      "Wi-Fi",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 4",
+    "nomecitta": "Bari",
+    "id": 154,
+    "descrizione": "Un ridente hotel a Bari, in Via Leonardo da Vinci, 57",
+    "telefono": "391-3143801",
+    "servizi": [
+      "Wi-Fi",
+      "Frigo in camera",
+      "Posto auto",
+      "Piscina",
+      "TV in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 5",
+    "nomecitta": "Bari",
+    "id": 155,
+    "descrizione": "Un organizzato hotel a Bari, in Via della fantasia, 9",
+    "telefono": "330-1485795",
+    "servizi": [
+      "servizio in camera",
+      "Posto auto",
+      "Wi-Fi",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 6",
+    "nomecitta": "Bari",
+    "id": 156,
+    "descrizione": "Un ridente hotel a Bari, in Via Napoli, 6",
+    "telefono": "330-6615486",
+    "servizi": [
+      "Piscina",
+      "Cancellazione gratuita",
+      "TV in camera",
+      "Sauna",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 7",
+    "nomecitta": "Bari",
+    "id": 157,
+    "descrizione": "Un organizzato hotel a Bari, in Via Napoli, 9",
+    "telefono": "311-6326442",
+    "servizi": [
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 8",
+    "nomecitta": "Bari",
+    "id": 158,
+    "descrizione": "Un organizzato hotel a Bari, in Via del tramonto, 97",
+    "telefono": "361-9788652",
+    "servizi": [
+      "Paga in struttura",
+      "Cancellazione gratuita",
+      "TV in camera",
+      "Piscina",
+      "Posto auto",
+      "Palestra",
+      "Wi-Fi",
+      "Frigo in camera",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 9",
+    "nomecitta": "Bari",
+    "id": 159,
+    "descrizione": "Un organizzato hotel a Bari, in Via del tesoro, 48",
+    "telefono": "350-1453186",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Posto auto",
+      "Wi-Fi",
+      "Palestra",
+      "Sauna",
+      "Paga in struttura",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Bari 10",
+    "nomecitta": "Bari",
+    "id": 160,
+    "descrizione": "Un bellissimo hotel a Bari, in Via Italia, 8",
+    "telefono": "390-6386568",
+    "servizi": [
+      "Sauna",
+      "Posto auto",
+      "TV in camera",
+      "servizio in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 1",
+    "nomecitta": "Potenza",
+    "id": 161,
+    "descrizione": "Un bellissimo hotel a Potenza, in Via Napoli, 2",
+    "telefono": "371-3333206",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Posto auto",
+      "Sauna",
+      "Frigo in camera",
+      "TV in camera",
+      "servizio in camera",
+      "Wi-Fi",
+      "Paga in struttura",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 2",
+    "nomecitta": "Potenza",
+    "id": 162,
+    "descrizione": "Un organizzato hotel a Potenza, in Via della fantasia, 28",
+    "telefono": "321-8195983",
+    "servizi": [
+      "Frigo in camera",
+      "servizio in camera",
+      "Piscina",
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 3",
+    "nomecitta": "Potenza",
+    "id": 163,
+    "descrizione": "Un grazioso hotel a Potenza, in Via Cavour, 41",
+    "telefono": "339-2785716",
+    "servizi": [
+      "Posto auto",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 4",
+    "nomecitta": "Potenza",
+    "id": 164,
+    "descrizione": "Un ridente hotel a Potenza, in Via Leonardo da Vinci, 19",
+    "telefono": "379-1923761",
+    "servizi": [
+      "servizio in camera",
+      "Paga in struttura",
+      "Wi-Fi",
+      "Palestra",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 5",
+    "nomecitta": "Potenza",
+    "id": 165,
+    "descrizione": "Un bellissimo hotel a Potenza, in Via Leonardo da Vinci, 94",
+    "telefono": "364-4572927",
+    "servizi": [
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 6",
+    "nomecitta": "Potenza",
+    "id": 166,
+    "descrizione": "Un bellissimo hotel a Potenza, in Via della gioia, 45",
+    "telefono": "354-9008946",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 7",
+    "nomecitta": "Potenza",
+    "id": 167,
+    "descrizione": "Un organizzato hotel a Potenza, in Via Italia, 78",
+    "telefono": "387-4671888",
+    "servizi": [
+      "Posto auto",
+      "Paga in struttura",
+      "TV in camera",
+      "Palestra",
+      "Frigo in camera",
+      "Piscina",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 8",
+    "nomecitta": "Potenza",
+    "id": 168,
+    "descrizione": "Un organizzato hotel a Potenza, in Via Leonardo da Vinci, 17",
+    "telefono": "360-3861142",
+    "servizi": [
+      "Frigo in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 9",
+    "nomecitta": "Potenza",
+    "id": 169,
+    "descrizione": "Un grazioso hotel a Potenza, in Via del tesoro, 12",
+    "telefono": "393-4353806",
+    "servizi": [
+      "Sauna",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Potenza 10",
+    "nomecitta": "Potenza",
+    "id": 170,
+    "descrizione": "Un ridente hotel a Potenza, in Via Cavour, 57",
+    "telefono": "380-3671849",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 1",
+    "nomecitta": "Reggio-Calabria",
+    "id": 171,
+    "descrizione": "Un bellissimo hotel a Reggio-Calabria, in Via Roma, 20",
+    "telefono": "326-9737379",
+    "servizi": [
+      "servizio in camera",
+      "Sauna",
+      "Frigo in camera",
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Paga in struttura",
+      "Wi-Fi"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 2",
+    "nomecitta": "Reggio-Calabria",
+    "id": 172,
+    "descrizione": "Un bellissimo hotel a Reggio-Calabria, in Via Italia, 46",
+    "telefono": "350-1941840",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Wi-Fi",
+      "Palestra",
+      "TV in camera",
+      "servizio in camera",
+      "Posto auto",
+      "Paga in struttura",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 3",
+    "nomecitta": "Reggio-Calabria",
+    "id": 173,
+    "descrizione": "Un grazioso hotel a Reggio-Calabria, in Via del tramonto, 88",
+    "telefono": "375-9179643",
+    "servizi": [
+      "Frigo in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 4",
+    "nomecitta": "Reggio-Calabria",
+    "id": 174,
+    "descrizione": "Un ridente hotel a Reggio-Calabria, in Via della fantasia, 25",
+    "telefono": "369-7124516",
+    "servizi": [
+      "Palestra",
+      "Wi-Fi",
+      "TV in camera",
+      "Paga in struttura",
+      "Frigo in camera",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 5",
+    "nomecitta": "Reggio-Calabria",
+    "id": 175,
+    "descrizione": "Un ridente hotel a Reggio-Calabria, in Via Napoli, 13",
+    "telefono": "360-1713031",
+    "servizi": [
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 6",
+    "nomecitta": "Reggio-Calabria",
+    "id": 176,
+    "descrizione": "Un bellissimo hotel a Reggio-Calabria, in Via Italia, 82",
+    "telefono": "313-7927998",
+    "servizi": [
+      "Piscina",
+      "Frigo in camera",
+      "Wi-Fi",
+      "servizio in camera",
+      "Cancellazione gratuita",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 7",
+    "nomecitta": "Reggio-Calabria",
+    "id": 177,
+    "descrizione": "Un organizzato hotel a Reggio-Calabria, in Via del tesoro, 71",
+    "telefono": "368-1712796",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 8",
+    "nomecitta": "Reggio-Calabria",
+    "id": 178,
+    "descrizione": "Un organizzato hotel a Reggio-Calabria, in Via del tesoro, 98",
+    "telefono": "323-7396734",
+    "servizi": [
+      "TV in camera",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Piscina",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 9",
+    "nomecitta": "Reggio-Calabria",
+    "id": 179,
+    "descrizione": "Un organizzato hotel a Reggio-Calabria, in Via della gioia, 93",
+    "telefono": "354-7421895",
+    "servizi": [
+      "TV in camera",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Reggio-Calabria 10",
+    "nomecitta": "Reggio-Calabria",
+    "id": 180,
+    "descrizione": "Un bellissimo hotel a Reggio-Calabria, in Via della gioia, 3",
+    "telefono": "332-6393863",
+    "servizi": [
+      "Wi-Fi",
+      "TV in camera",
+      "Sauna",
+      "servizio in camera",
+      "Palestra",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 1",
+    "nomecitta": "Palermo",
+    "id": 181,
+    "descrizione": "Un grazioso hotel a Palermo, in Via Roma, 17",
+    "telefono": "330-2556599",
+    "servizi": [
+      "Frigo in camera",
+      "Paga in struttura",
+      "Piscina",
+      "Posto auto",
+      "Sauna",
+      "Palestra",
+      "servizio in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 2",
+    "nomecitta": "Palermo",
+    "id": 182,
+    "descrizione": "Un ridente hotel a Palermo, in Via della libertà, 21",
+    "telefono": "332-1991539",
+    "servizi": [
+      "Wi-Fi",
+      "TV in camera",
+      "Sauna",
+      "Piscina",
+      "Paga in struttura",
+      "Cancellazione gratuita",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 3",
+    "nomecitta": "Palermo",
+    "id": 183,
+    "descrizione": "Un bellissimo hotel a Palermo, in Via del tesoro, 38",
+    "telefono": "344-1484066",
+    "servizi": [
+      "Wi-Fi",
+      "Piscina",
+      "Posto auto",
+      "servizio in camera",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 4",
+    "nomecitta": "Palermo",
+    "id": 184,
+    "descrizione": "Un bellissimo hotel a Palermo, in Via della libertà, 99",
+    "telefono": "388-6288430",
+    "servizi": [
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 5",
+    "nomecitta": "Palermo",
+    "id": 185,
+    "descrizione": "Un bellissimo hotel a Palermo, in Via del tramonto, 3",
+    "telefono": "367-5663198",
+    "servizi": [
+      "Palestra",
+      "servizio in camera",
+      "Sauna",
+      "Wi-Fi",
+      "Cancellazione gratuita",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 6",
+    "nomecitta": "Palermo",
+    "id": 186,
+    "descrizione": "Un organizzato hotel a Palermo, in Via del tesoro, 16",
+    "telefono": "368-4561552",
+    "servizi": [],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 7",
+    "nomecitta": "Palermo",
+    "id": 187,
+    "descrizione": "Un bellissimo hotel a Palermo, in Via Roma, 89",
+    "telefono": "391-6867608",
+    "servizi": [
+      "Posto auto",
+      "Cancellazione gratuita",
+      "Paga in struttura"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 8",
+    "nomecitta": "Palermo",
+    "id": 188,
+    "descrizione": "Un bellissimo hotel a Palermo, in Via Napoli, 35",
+    "telefono": "324-4191627",
+    "servizi": [
+      "Piscina",
+      "Wi-Fi",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 9",
+    "nomecitta": "Palermo",
+    "id": 189,
+    "descrizione": "Un organizzato hotel a Palermo, in Via della fantasia, 13",
+    "telefono": "344-4009767",
+    "servizi": [
+      "Cancellazione gratuita",
+      "TV in camera",
+      "Frigo in camera",
+      "Piscina",
+      "Wi-Fi",
+      "Posto auto",
+      "Paga in struttura",
+      "servizio in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Palermo 10",
+    "nomecitta": "Palermo",
+    "id": 190,
+    "descrizione": "Un bellissimo hotel a Palermo, in Via del tramonto, 31",
+    "telefono": "380-2941515",
+    "servizi": [
+      "Palestra",
+      "Cancellazione gratuita",
+      "Piscina"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 1",
+    "nomecitta": "Cagliari",
+    "id": 191,
+    "descrizione": "Un ridente hotel a Cagliari, in Via della gioia, 16",
+    "telefono": "373-1936590",
+    "servizi": [
+      "Posto auto",
+      "Wi-Fi",
+      "Palestra",
+      "servizio in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 2",
+    "nomecitta": "Cagliari",
+    "id": 192,
+    "descrizione": "Un bellissimo hotel a Cagliari, in Via Cavour, 74",
+    "telefono": "339-1421791",
+    "servizi": [
+      "Sauna",
+      "Posto auto"
+    ],
+    "rate": 1,
+    "ratings": {
+      "pulizia": 1,
+      "posizione": 1,
+      "servizi": 1,
+      "prezzo": 1
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 3",
+    "nomecitta": "Cagliari",
+    "id": 193,
+    "descrizione": "Un organizzato hotel a Cagliari, in Via Napoli, 86",
+    "telefono": "316-3284996",
+    "servizi": [
+      "Posto auto",
+      "Wi-Fi",
+      "Paga in struttura",
+      "Palestra",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 4",
+    "nomecitta": "Cagliari",
+    "id": 194,
+    "descrizione": "Un organizzato hotel a Cagliari, in Via Italia, 72",
+    "telefono": "344-8099110",
+    "servizi": [
+      "TV in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 5",
+    "nomecitta": "Cagliari",
+    "id": 195,
+    "descrizione": "Un grazioso hotel a Cagliari, in Via del tesoro, 82",
+    "telefono": "359-1568880",
+    "servizi": [
+      "Sauna",
+      "servizio in camera",
+      "Wi-Fi",
+      "Piscina",
+      "Frigo in camera",
+      "Cancellazione gratuita"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 6",
+    "nomecitta": "Cagliari",
+    "id": 196,
+    "descrizione": "Un grazioso hotel a Cagliari, in Via del tramonto, 78",
+    "telefono": "354-7464132",
+    "servizi": [
+      "Paga in struttura",
+      "Wi-Fi",
+      "Posto auto",
+      "TV in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 7",
+    "nomecitta": "Cagliari",
+    "id": 197,
+    "descrizione": "Un bellissimo hotel a Cagliari, in Via della libertà, 69",
+    "telefono": "348-4448609",
+    "servizi": [
+      "Palestra",
+      "Cancellazione gratuita",
+      "Frigo in camera",
+      "Paga in struttura",
+      "servizio in camera",
+      "TV in camera",
+      "Wi-Fi",
+      "Piscina",
+      "Posto auto"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 8",
+    "nomecitta": "Cagliari",
+    "id": 198,
+    "descrizione": "Un grazioso hotel a Cagliari, in Via della fantasia, 47",
+    "telefono": "345-1256390",
+    "servizi": [
+      "Cancellazione gratuita",
+      "Palestra"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 9",
+    "nomecitta": "Cagliari",
+    "id": 199,
+    "descrizione": "Un grazioso hotel a Cagliari, in Via del tramonto, 26",
+    "telefono": "351-5616554",
+    "servizi": [
+      "TV in camera",
+      "Wi-Fi",
+      "Cancellazione gratuita",
+      "Frigo in camera"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  },
+  {
+    "nome": "Hotel Cagliari 10",
+    "nomecitta": "Cagliari",
+    "id": 200,
+    "descrizione": "Un grazioso hotel a Cagliari, in Via Roma, 73",
+    "telefono": "350-6988999",
+    "servizi": [
+      "Wi-Fi",
+      "Palestra",
+      "Piscina",
+      "Paga in struttura",
+      "Frigo in camera",
+      "Sauna"
+    ],
+    "rate": 0,
+    "ratings": {
+      "pulizia": 0,
+      "posizione": 0,
+      "servizi": 0,
+      "prezzo": 0
+    }
+  }
+]
